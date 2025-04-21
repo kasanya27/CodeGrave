@@ -1,0 +1,1 @@
+// Optional schema or model placeholder (if using MongoDB/ORM)
